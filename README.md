@@ -10,6 +10,6 @@
 
 * [SQL](https://github.com/lucasvurquiza/LubySoftware/blob/main/SQL/Quest%C3%B5es%20SQL.txt)
 
-### Desafui em Orientação a Objetos - Desenvolvido em Java:
+### Desafio em Orientação a Objetos - Desenvolvido em Java:
 
 * [Vending Machine](https://github.com/lucasvurquiza/LubySoftware/tree/main/MaquinaDeVendas/src/main)
